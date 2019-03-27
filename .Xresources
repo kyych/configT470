@@ -1,0 +1,5 @@
+URxvt.scrollBar:		false
+URxvt.transparent:	true
+URxvt.shading:		15
+
+URxvt.font:		xft:DejaVu Sans mono:pixelsize:14

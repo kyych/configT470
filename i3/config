@@ -41,6 +41,9 @@ bindsym $mod+Shift+q kill
 # rofi
 bindsym $mod+d exec rofi -show run
 
+# scrot
+bindsym Print exec scrot -e 'mv $f ~/Skriny/'
+
 # lockscreen
 bindsym $mod+Shift+w exec i3lock -t -i ~/Downloads/Wallpapers/xWY67.png
 
